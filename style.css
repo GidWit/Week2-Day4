@@ -1,0 +1,36 @@
+.main-content {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 170px auto;
+    width: 400px;
+    height: 300px;
+    font-family: "Averia Gruesa Libre", sans-serif;
+}
+.parent {
+    text-align: center;
+    margin: 20px 5px;
+    font-size: 20px;
+  }
+ .myFont {
+    font-family: "Plaster", sans-serif;
+    font-size: 30px;
+ } 
+ .myFont2 {
+    font-family: "Averia Gruesa Libre", sans-serif;
+ }
+
+ #firstName {
+    margin-bottom: 10px;
+    margin-top: 30px;
+ }
+ #lastName {
+    margin: 20px auto;
+ }
+ #submit {
+    margin-top: 30px;
+ }
+
+
+
+
